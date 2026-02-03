@@ -1,0 +1,7 @@
+.logo {
+  color: red;
+}
+
+.list li:nth-of-type(3) {
+  color: red;
+}
